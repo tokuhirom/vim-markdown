@@ -100,7 +100,7 @@ hi def link markdownBoldItalic            htmlBoldItalic
 hi def link markdownCodeDelimiter         Delimiter
 
 hi def link markdownEscape                Special
-hi def link markdownError                 Error
+hi def link markdownError                 htmlH1
 
 let b:current_syntax = "markdown"
 
